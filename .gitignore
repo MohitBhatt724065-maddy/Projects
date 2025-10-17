@@ -1,0 +1,13 @@
+
+# Ignore virtual environment
+myvenv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# VSCode or other editor settings
+.vscode/
+
+# System files
+.DS_Store
