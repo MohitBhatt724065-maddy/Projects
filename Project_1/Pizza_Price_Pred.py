@@ -25,3 +25,9 @@ print(df_encoded.head())
 print(Dataframe['Type'].nunique())
 
 print(df_encoded.columns)
+
+# Number = Dataframe['Size'].nunique()
+# print(Number)
+
+# Unique_Sizes = Dataframe['Size'].unique()
+# print(Unique_Sizes)
