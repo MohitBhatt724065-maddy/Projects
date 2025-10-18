@@ -2,7 +2,7 @@
 import pandas as pd
 import numpy as np
 
-Dataframe = pd.read_csv('Datasets/pizza_data.csv')
+Dataframe = pd.read_csv('/home/mohit-bhatt/Desktop/Projects/Projects/Datasets/pizza_data.csv')
 print(Dataframe.sample(20))
 
 print(Dataframe.info())
