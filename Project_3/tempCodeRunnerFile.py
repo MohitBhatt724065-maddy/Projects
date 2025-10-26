@@ -1,0 +1,1 @@
+print(X.sample(10))
