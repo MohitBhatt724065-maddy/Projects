@@ -31,4 +31,4 @@ from sklearn.metrics import accuracy_score
 y_pred = knn_model.predict(X_test)
 print(accuracy_score(y_test, y_pred))
 
-# Remaining to be done(Not encodede Species column.)
+# Remaining to be done(Not encodede Species column)
